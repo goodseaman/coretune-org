@@ -23,6 +23,8 @@ A collection of beginner-friendly learning resources, tools, and Q&amp;A for com
 *   **Awesome Lists (精选资源列表):** 仿照 GitHub 上的 Awesome 系列，我们整理了特定领域的顶级工具、库和文章。例如我们的 **[🔥 Awesome Developer Tools](Awesome-Developer-Tools.md)**。
 *   **Deep Dives (深度解读):** 对某些复杂技术概念的通俗化解读与分析。
 *   **Tech Radar (技术雷达):** 追踪前沿技术趋势，分享我们认为值得关注的新技术和新动向。
+*   **Developer Monthly Digest (开发者月度速报):** 每月精选技术圈最值得关注的新闻、文章和有趣的项目，让你保持对行业动态的敏锐嗅觉。
+
 
 *如果你是经验丰富的开发者，欢迎在这个版块贡献你的见解！*
  
